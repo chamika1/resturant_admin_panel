@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Mike Wilson",
+        "phone": "+1234567892",
+        "vehicle": "bike",
+        "status": "busy"
+    },
+    {
+        "id": 2,
+        "name": "David Brown",
+        "phone": "+1234567895",
+        "vehicle": "car",
+        "status": "available"
+    },
+    {
+        "id": 3,
+        "name": "Lisa Garcia",
+        "phone": "+1234567896",
+        "vehicle": "scooter",
+        "status": "available"
+    }
+]

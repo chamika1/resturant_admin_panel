@@ -1,0 +1,160 @@
+[
+    {
+        "id": 1,
+        "userId": 1,
+        "items": [
+            {
+                "id": 1,
+                "quantity": 2
+            }
+        ],
+        "total": 25.98,
+        "status": "delivered",
+        "date": "2025-06-22",
+        "address": "123 Main St, City",
+        "deliveryPersonId": null
+    },
+    {
+        "id": 2,
+        "userId": 2,
+        "items": [
+            {
+                "id": 2,
+                "quantity": 1
+            },
+            {
+                "id": 1,
+                "quantity": 1
+            }
+        ],
+        "total": 21.98,
+        "status": "accepted",
+        "date": "2025-06-22",
+        "address": "456 Oak Ave, City",
+        "deliveryPersonId": 1
+    },
+    {
+        "id": 3,
+        "userId": 1,
+        "items": [
+            {
+                "id": 3,
+                "quantity": 1
+            }
+        ],
+        "total": 15.99,
+        "status": "preparing",
+        "date": "2025-06-21",
+        "address": "789 Pine St, City",
+        "deliveryPersonId": null
+    },
+    {
+        "id": 4,
+        "userId": 2,
+        "items": [
+            {
+                "id": 4,
+                "quantity": 1
+            }
+        ],
+        "total": 6.99,
+        "status": "cancelled",
+        "date": "2025-06-21",
+        "address": "321 Elm St, City",
+        "deliveryPersonId": 1
+    },
+    {
+        "id": 5,
+        "userId": 1,
+        "items": [
+            {
+                "id": 5,
+                "quantity": 2
+            }
+        ],
+        "total": 9.98,
+        "status": "delivered",
+        "date": "2025-06-20",
+        "address": "654 Maple Dr, City",
+        "deliveryPersonId": 2
+    },
+    {
+        "id": 6,
+        "userId": 2,
+        "items": [
+            {
+                "id": 1,
+                "quantity": 1
+            },
+            {
+                "id": 4,
+                "quantity": 1
+            }
+        ],
+        "total": 19.98,
+        "status": "delivered",
+        "date": "2025-06-20",
+        "address": "987 Birch Ln, City",
+        "deliveryPersonId": 1
+    },
+    {
+        "id": 7,
+        "userId": 1,
+        "items": [
+            {
+                "id": 2,
+                "quantity": 2
+            }
+        ],
+        "total": 17.98,
+        "status": "refunded",
+        "date": "2025-06-19",
+        "address": "123 Main St, City",
+        "deliveryPersonId": 2
+    },
+    {
+        "id": 8,
+        "userId": 2,
+        "items": [
+            {
+                "id": 3,
+                "quantity": 1
+            }
+        ],
+        "total": 15.99,
+        "status": "cancelled",
+        "date": "2025-06-19",
+        "address": "456 Oak Ave, City",
+        "deliveryPersonId": null
+    },
+    {
+        "id": 9,
+        "userId": 1,
+        "items": [
+            {
+                "id": 1,
+                "quantity": 1
+            }
+        ],
+        "total": 12.99,
+        "status": "accepted",
+        "date": "2025-06-18",
+        "address": "789 Pine St, City",
+        "deliveryPersonId": 1
+    },
+    {
+        "id": 10,
+        "userId": 2,
+        "items": [
+            {
+                "id": 5,
+                "quantity": 3
+            }
+        ],
+        "total": 14.97,
+        "status": "delivered",
+        "date": "2025-06-17",
+        "address": "321 Elm St, City",
+        "deliveryPersonId": 2
+    }
+]

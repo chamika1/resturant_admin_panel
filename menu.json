@@ -1,0 +1,34 @@
+[
+    {
+        "id": 2,
+        "name": "Caesar Saladd",
+        "price": 8.99,
+        "category": "appetizer",
+        "description": "Fresh romaine lettuce with caesar dressing",
+        "image": "https:\/\/i.ibb.co\/W8nYJTw\/Chicken-Fried-Rice-Recipe-Square-1.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Chicken Burger",
+        "price": 15.99,
+        "category": "main",
+        "description": "Grilled chicken breast with fresh vegetables",
+        "image": "https:\/\/i.ibb.co\/W8nYJTw\/Chicken-Fried-Rice-Recipe-Square-1.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Chocolate Cake",
+        "price": 6.99,
+        "category": "dessert",
+        "description": "Rich chocolate cake with cream frosting",
+        "image": "https:\/\/i.ibb.co\/W8nYJTw\/Chicken-Fried-Rice-Recipe-Square-1.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Fresh Orange Juice",
+        "price": 4.99,
+        "category": "beverage",
+        "description": "Freshly squeezed orange juice",
+        "image": "https:\/\/i.ibb.co\/W8nYJTw\/Chicken-Fried-Rice-Recipe-Square-1.jpg"
+    }
+]
